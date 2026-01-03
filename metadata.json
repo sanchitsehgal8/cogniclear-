@@ -1,0 +1,5 @@
+{
+  "name": "CogniClear AI",
+  "description": "An Explainable AI System that detects, quantifies, and corrects human decision bias in real-time.",
+  "requestFramePermissions": []
+}
